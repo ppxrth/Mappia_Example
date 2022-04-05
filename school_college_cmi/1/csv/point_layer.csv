@@ -11,6 +11,7 @@ gid,sub_code,namt,name,location_t,location_e,version,sourcethm,icon_url
 "7","47110",มหาวิทยาลัยเที่ยงคืน,MIDNIGHT UNIVERSITY,,,"1",university_landm,./0.png
 "8","47030",วิทยาลัยพยาบาลบรมราชชนนีเชียงใหม่,"BOROMARAJONANI NURSING COLLEGE,CHIANG MAI",ทางหลวงแผ่นดินหมายเลข 121,HIGHWAY 121,"1",Wittayalai_landm,./0.png
 "9","47030",วิทยาลัยสารพัดช่างเชียงใหม่,CHIANG MAI POLYTECHNIC COLLEGE,ถนนห้วยแก้ว,HUAY KAEW RD.,"1",Wittayalai_landm,./0.png
+"44","47010",โรงเรียนธีรวัธน์บำเพ็ญ,THIRAWAT BAMPHEN SCHOOL,,,"1",Schools_landmark,./0.png
 "10","47030",วิทยาลัยพลศึกษาเชียงใหม่,CHIANG MAI PHYSICAL EDUCATION COLLEGE,ถนนสนามกีฬา,SANAMKILA RD.,"1",Wittayalai_landm,./0.png
 "11","47030",วิทยาลัยเทคนิคเชียงใหม่,CHIANGMAI TECHNICAL COLLEGE,ถนนเวียงแก้ว,WIANG KAEW RD.,"1",Wittayalai_landm,./0.png
 "12","47030",วิทยาลัยอาชีวศึกษาเชียงใหม่,CHIANGMAI VOCATIONAL COLLEGE,ถนนพระปกเกล้า,PRAPOKKLAO RD.,"1",Wittayalai_landm,./0.png
@@ -18,6 +19,7 @@ gid,sub_code,namt,name,location_t,location_e,version,sourcethm,icon_url
 "14","47030",วิทยาลัยนาฏศิลป์เชียงใหม่,CHIANG MAI COLLEGE OF DRAMATIC ARTS,ถนนสุริยะวงษ์,SURIYAWONGSE RD.,"1",Wittayalai_landm,./0.png
 "15","47030",วิทยาลัยพยาบาลบรมราชชนนีเชียงใหม่,"BOROMARAJONANI NURSING COLLEGE,CHIANG MAI",ถนนศรีจันทร์ดร,SRICHAN DON RD.,"1",Wittayalai_landm,./0.png
 "16","47030",วิทยาลัยฟาร์อิสเทอร์น,FAR EASTERN COLLEGE,ถนนบุญเรืองฤทธิ์ (กำลังก่อสร้าง),BOONRUANGRIT RD.,"1",Wittayalai_landm,./0.png
+"70","47010",โรงเรียนบ้านหัวฝาย,BAN HUA FAI SCHOOL,,,"1",Schools_landmark,./0.png
 "17","47030",วิทยาลัยเชียงใหม่บริหารธุรกิจนานาชาติ,CHIANGMAI INTER BUSSINESS COLLAGE,ถนนเชียงใหม่-ลำปาง,CHIANG MAI-LAMPANG RD.,"1",Wittayalai_landm,./0.png
 "18","47030",วิทยาลัยสารพัดช่างเชียงใหม่,CHIANG MAI POLYTECHNIC COLLEGE,ทางหลวงแผ่นดินหมายเลข 106,HIGHWAY 106,"1",Wittayalai_landm,./0.png
 "19","47030",วิทยาลัยนอร์ท-เชียงใหม่,NORTH-CHIANG MAI COLLEGE,,,"1",Wittayalai_landm,./0.png
@@ -45,7 +47,6 @@ gid,sub_code,namt,name,location_t,location_e,version,sourcethm,icon_url
 "41","47010",โรงเรียนแม่ริมวิทยา,MAE RIM WITTHAYA SCHOOL,ถนนเชียงใหม่-ฝาง,CHIANG MAI-FANG RD.,"1",Schools_landmark,./0.png
 "42","47010",โรงเรียนบ้านห้วยเกี๋ยง,BAN HUAI KIANG SCHOOL,ถนนเชียงใหม่-พร้าว,CHIANG MAI-PHRAO RD.,"1",Schools_landmark,./0.png
 "43","47010",โรงเรียนวัดขอนตาล,WAT KHON TAN SCHOOL,ถนนรพช. ชม. 4138 (บ้านต้นผึ้ง-บ้านป่าข่อยใต้),RO PHO CHO. CHIANG MAI 4138 RD. (BAN TON PHUENG-BAN PA KHOI TAI),"1",Schools_landmark,./0.png
-"44","47010",โรงเรียนธีรวัธน์บำเพ็ญ,THIRAWAT BAMPHEN SCHOOL,,,"1",Schools_landmark,./0.png
 "45","47010",โรงเรียนบ้านริมใต้,BAN RIM TAI SCHOOL,ถนนเชียงใหม่-ฝาง,CHIANG MAI-FANG RD.,"1",Schools_landmark,./0.png
 "46","47010",โรงเรียนอัมพวันประชาสามัคคี,AMPHAWAN PRACHA SAMAKKHI SCHOOL,ถนนโยธาธิการ ชม. (บ้านห้วยโจ้-บ้านแม่ใน),YOTHATHIKAN CHIANG MAI RD. (BAN HUAI CHO-BAN MAE NAI),"1",Schools_landmark,./0.png
 "47","47010",โรงเรียนบ้านต้นผึ้ง,BAN TON PHUENG SCHOOL,ถนนรพช. ชม. 4138 (บ้านต้นผึ้ง-บ้านป่าข่อยใต้),RO PHO CHO. CHIANG MAI 4138 RD. (BAN TON PHUENG-BAN PA KHOI TAI),"1",Schools_landmark,./0.png
@@ -70,7 +71,6 @@ gid,sub_code,namt,name,location_t,location_e,version,sourcethm,icon_url
 "67","47010",โรงเรียนบ้านท่าเกวียน,BAN THA KWIAN SCHOOL,ถนนโยธาธิการ ชม. 2177 (บ้านท่าเกวียน-บ้านโป่ง),YOTHATHIKAN CHIANG MAI 2177 RD. (BAN THA KWIAN-BAN PONG),"1",Schools_landmark,./0.png
 "68","47010",โรงเรียนบ้านร้องขี้เหล็ก,BAN RONG KHI LEK SCHOOL,,,"1",Schools_landmark,./0.png
 "69","47010",โรงเรียนวัดสันต้นเปา,WAT SAN TON PAO SCHOOL,ถนนรพช. ชม. 4033 (บ้านพยากน้อย-บ้านป่าเหมือด),RO PHO CHO. CHIANG MAI 4033 RD. (BAN PHAYAK NOI-BAN PA MUEAT),"1",Schools_landmark,./0.png
-"70","47010",โรงเรียนบ้านหัวฝาย,BAN HUA FAI SCHOOL,,,"1",Schools_landmark,./0.png
 "71","47010",โรงเรียนวัดป่าข่อยใต้,WAT PA KHOI TAI SCHOOL,ถนนรพช. ชม. 5138 (บ้านป่าข่อยใต้-บ้านหนองเขียว),RO PHO CHO. CHIANG MAI 5138 RD. (BAN PA KHOI TAI-BAN NONG KHIAO),"1",Schools_landmark,./0.png
 "72","47010",โรงเรียนวัดแม่แก้ดหลวง,WAT MAE KAET LUANG SCHOOL,,,"1",Schools_landmark,./0.png
 "73","47010",โรงเรียนบ้านป่าก้าง,BAN PA KANG SCHOOL,ถนนโยธาธิการ ชม. 2002 (บ้านป่าค่าง),YOTHATHIKAN CHIANG MAI 2002 RD. (BAN PA KHANG),"1",Schools_landmark,./0.png
